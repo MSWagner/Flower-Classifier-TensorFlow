@@ -2,7 +2,7 @@
 
 Project code for Udacity's 'Intro to Machine Learning with TensorFlow' Nanodegree program.
 
-<img src="https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/assets/prediction.png" width="400">
+<img src="https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/assets/prediction.png" width="600">
 
 ## Jupyter Notebook Files
 

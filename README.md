@@ -2,12 +2,12 @@
 
 Project code for Udacity's Intro to Machine Learning with TensorFlow Nanodegree program.
 
-<img src="https://github.com/MSWagner/Flower-Classifier-Pytorch/blob/master/assets/prediction.png" width="400">
+<img src="https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/assets/prediction.png" width="400">
 
 ## Jupyter Notebook Files
 
-- [Jupyter Notebook](https://github.com/MSWagner/Flower-Classifier-Pytorch/blob/master/Image%20Classifier%20Project.ipynb)
-- [HTML](https://github.com/MSWagner/Flower-Classifier-Pytorch/blob/master/Image%20Classifier%20Project.html)
+- [Jupyter Notebook](https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/Flower_Image_Classifier.ipynb)
+- [HTML](https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/Flower_Image_Classifier.html)
 
 ## Command line application
 

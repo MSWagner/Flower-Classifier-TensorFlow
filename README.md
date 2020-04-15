@@ -1,6 +1,6 @@
 # Flower image classifier with TensorFlow
 
-Project code for Udacity's Intro to Machine Learning with TensorFlow Nanodegree program.
+Project code for Udacity's 'Intro to Machine Learning with TensorFlow' Nanodegree program.
 
 <img src="https://github.com/MSWagner/Flower-Classifier-TensorFlow/blob/master/assets/prediction.png" width="400">
 
